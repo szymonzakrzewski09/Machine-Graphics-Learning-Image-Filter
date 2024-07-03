@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<center>
 <b>Imagine maniulation through applying filter such as:  
 -sharpen  
 -emboss  
@@ -11,4 +11,4 @@
 -maxFilter  
 -medianFilter  
  This filter was applied to an images, additionally the code having histograms, statictics and compares them</b>
-</div>
+</center>
