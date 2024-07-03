@@ -1,14 +1,26 @@
-<center>
-<b>Imagine maniulation through applying filter such as:  
--sharpen  
--emboss  
--deatil  
--guassianblur  
--edge_enhance_more  
--smoothe_more  
--unsharpmask  
--minFilter  
--maxFilter  
--medianFilter  
- This filter was applied to an images, additionally the code having histograms, statictics and compares them</b>
-</center>
+<p align="center">
+    Imagine manipulation through applying filters such as:
+    <br>
+    - sharpen
+    <br>
+    - emboss
+    <br>
+    - detail
+    <br>
+    - GaussianBlur
+    <br>
+    - edge_enhance_more
+    <br>
+    - smooth_more
+    <br>
+    - unsharpMask
+    <br>
+    - minFilter
+    <br>
+    - maxFilter
+    <br>
+    - medianFilter
+    <br><br>
+    These filters were applied to an image. Additionally, the code includes histograms, statistics, and compares them.
+</p>
+
